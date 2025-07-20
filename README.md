@@ -1,4 +1,3 @@
-````markdown
 # StyleHub 🛍️
 
 <p align="center">
@@ -79,7 +78,6 @@ To start the development server, run the following command:
 
 ```bash
 npm run dev
-````
 
 Open [http://localhost:5173](https://www.google.com/search?q=http://localhost:5173) (or the port shown in your terminal) to view the app in your browser.
 
