@@ -10,15 +10,13 @@
 
 A modern, scalable, and responsive e-commerce platform for a clothing brand, built with a focus on a clean user interface, performance, and a delightful user experience.
 
-**➡️ [Live Demo](https://stylehub.vercel.app/)** *(<- Replace with your deployment link)*
+**➡️ [Live Demo](https://style-hub-gilt.vercel.app/)** 
 
 ---
 
 ## 📸 Screenshots
 
-*(Add a screenshot or GIF of the application here)*
-
-![StyleHub Homepage Screenshot](./screenshots/homepage.png)
+![alt text](image.png)
 
 ---
 
@@ -78,6 +76,7 @@ To start the development server, run the following command:
 
 ```bash
 npm run dev
+```
 
 Open [http://localhost:5173](https://www.google.com/search?q=http://localhost:5173) (or the port shown in your terminal) to view the app in your browser.
 
