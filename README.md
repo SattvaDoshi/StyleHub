@@ -10,7 +10,7 @@
 
 A modern, scalable, and responsive e-commerce platform for a clothing brand, built with a focus on a clean user interface, performance, and a delightful user experience.
 
-**➡️ [Live Demo](https://style-hub-gilt.vercel.app/)** 
+**➡️ [Live Demo](https://style-hub-gilt.vercel.app/)**  
 
 ---
 
